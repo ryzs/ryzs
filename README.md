@@ -30,6 +30,10 @@ I use AI as a thinking partner to validate my approach, catch blind spots, and a
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+### Beyond Code
+
+🖥️ Homelab tinkerer · 🏹 Traditional archery (composite bow) · 🪵 Woodworking & DIY · 🌿 Nature & peaceful places
+
 ### Contact
 
 [![Twitter](https://img.shields.io/badge/@rizkyfathulh-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rizkyfathulh)
