@@ -28,6 +28,7 @@ I use AI as a thinking partner to validate my approach, catch blind spots, and a
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-0F0F0F?style=flat&logo=turborepo&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-EF4444?style=flat&logo=reactquery&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Beyond Code
